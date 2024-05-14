@@ -9,4 +9,4 @@
 * **Freshco Excel Capstone SourceData** - Excel File - Used for PowerPivot feature in excel.
 * **Freshco Hypermarket - Data set Instructions** - PDF File - Details of the Data set and Data Dictionary
 * **Freshco Raw Data** - Excel File - Raw Data File of the Sales
-* **Freshco Capstone Project** = PDF File - A Presentation on the complete analysis
+* **Freshco Capstone Project** - PDF File - A Presentation on the complete analysis
