@@ -64,4 +64,4 @@ Make sure that you submit/upload both (excel working file and Doc report) files 
 19.    Calculate average overall delivery time at slot level. Refer to the definition of slot.
 20.    Do you see any pattern in delivery charges with slot or delivery area.
 21.    Do you see any pattern in delivery time and delivery area. If yes then find out logical reason.
-![image](https://github.com/Jhill-Rj/Freshco-Excel-Analytics/assets/169805508/10a04b7a-5268-4ecb-9213-8cf0eb7c659f)
+
